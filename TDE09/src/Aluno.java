@@ -1,4 +1,4 @@
-public class Aluno {
+class Aluno {
     private String nome;
     private double nota1;
     private double nota2;
